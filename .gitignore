@@ -1,6 +1,7 @@
 #Ignore LabVIEW things
 [Bb]uild*
 *.lvlps
+*.aliases
 
 
 #Windows Junk

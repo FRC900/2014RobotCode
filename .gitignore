@@ -1,2 +1,7 @@
-#Ignore Build folder
-Builds
+#Ignore LabVIEW things
+[Bb]uild*
+
+
+#Windows Junk
+[Tt]humbs.db
+*.DS_Store

@@ -43,7 +43,6 @@
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
-		<Property Name="target.IOScan.Enabled" Type="Bool">true</Property>
 		<Property Name="target.IOScan.Faults" Type="Str"></Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
@@ -127,6 +126,7 @@ DirectoryIndex index.htm
 					<Item Name="AutoDrive.vi" Type="VI" URL="../900/Drive/AutoDrive.vi"/>
 					<Item Name="ReinitializeWhenStopped.vi" Type="VI" URL="../900/Drive/ReinitializeWhenStopped.vi"/>
 					<Item Name="Reinitializecontrol.ctl" Type="VI" URL="../Reinitializecontrol.ctl"/>
+					<Item Name="pidMotor.vi" Type="VI" URL="../900/Drive/pidMotor.vi"/>
 				</Item>
 			</Item>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>

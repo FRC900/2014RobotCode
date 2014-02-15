@@ -114,11 +114,19 @@ DirectoryIndex index.htm
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="900" Type="Folder">
-				<Item Name="Logitech" Type="Folder"/>
+				<Item Name="Logitech" Type="Folder">
+					<Item Name="Logitech F310.vi" Type="VI" URL="../900/Logitech/Logitech F310.vi"/>
+				</Item>
 				<Item Name="Launch" Type="Folder">
 					<Item Name="ToggleAngle.vi" Type="VI" URL="../ToggleAngle.vi"/>
 					<Item Name="PullBack.vi" Type="VI" URL="../PullBack.vi"/>
 					<Item Name="LaunchBall.vi" Type="VI" URL="../LaunchBall.vi"/>
+				</Item>
+				<Item Name="Drive" Type="Folder">
+					<Item Name="SlowModeRamping.vi" Type="VI" URL="../900/Drive/SlowModeRamping.vi"/>
+					<Item Name="AutoDrive.vi" Type="VI" URL="../900/Drive/AutoDrive.vi"/>
+					<Item Name="ReinitializeWhenStopped.vi" Type="VI" URL="../900/Drive/ReinitializeWhenStopped.vi"/>
+					<Item Name="Reinitializecontrol.ctl" Type="VI" URL="../Reinitializecontrol.ctl"/>
 				</Item>
 			</Item>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
@@ -598,10 +606,6 @@ DirectoryIndex index.htm
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Logitech F310.vi" Type="VI" URL="../900/Logitech/Logitech F310.vi"/>
-			<Item Name="AutoDrive.vi" Type="VI" URL="../900/Drive/AutoDrive.vi"/>
-			<Item Name="Reinitializecontrol.ctl" Type="VI" URL="../Reinitializecontrol.ctl"/>
-			<Item Name="ReinitializeWhenStopped.vi" Type="VI" URL="../900/Drive/ReinitializeWhenStopped.vi"/>
 			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
 			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
 			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>

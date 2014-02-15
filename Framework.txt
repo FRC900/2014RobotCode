@@ -45,6 +45,7 @@ Drive        Front
 
 	Winch Motor:	6
 	AAM: 		7
+	Launch Motor:	8
 	
 
 

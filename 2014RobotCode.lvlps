@@ -1,17 +1,11 @@
 [ProjectWindow_Data]
-<<<<<<< HEAD
-ProjectExplorer.ClassicPosition[String] = "481,588,881,960"
-=======
-ProjectExplorer.ClassicPosition[String] = "25,2,726,1364"
->>>>>>> 79f6747e073b51e035668fe280c824c6863dcc63
+ProjectExplorer.ClassicPosition[String] = "37,4,738,498"
 
 [AB_Cache_{8918E54B-57F8-4157-9A9B-E5B1DDE9D5DC}]
-Cache_Path[Path] Line0001 = "/C/Documents and Settings/Noah Haskell/Local Setti"
-Cache_Path[Path] Line0002 = "ngs/Temp/AB_Cache_{8918E54B-57F8-4157-9A9B-E5B1DDE"
-Cache_Path[Path] Line0003 = "9D5DC}.txt"
+Cache_Path[Path] Line0001 = "/C/Users/Engineering/AppData/Local/Temp/AB_Cache_{"
+Cache_Path[Path] Line0002 = "8918E54B-57F8-4157-9A9B-E5B1DDE9D5DC}.txt"
 
 [AB_Cache_{818764A5-CF2F-459D-99A2-FC861F69E9D6}]
-Cache_Path[Path] Line0001 = "/C/Documents and Settings/Noah Haskell/Local Setti"
-Cache_Path[Path] Line0002 = "ngs/Temp/AB_Cache_{818764A5-CF2F-459D-99A2-FC861F6"
-Cache_Path[Path] Line0003 = "9E9D6}.txt"
+Cache_Path[Path] Line0001 = "/C/Users/Engineering/AppData/Local/Temp/AB_Cache_{"
+Cache_Path[Path] Line0002 = "818764A5-CF2F-459D-99A2-FC861F69E9D6}.txt"
 

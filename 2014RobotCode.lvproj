@@ -125,7 +125,6 @@ DirectoryIndex index.htm
 					<Item Name="SlowModeRamping.vi" Type="VI" URL="../900/Drive/SlowModeRamping.vi"/>
 					<Item Name="AutoDrive.vi" Type="VI" URL="../900/Drive/AutoDrive.vi"/>
 					<Item Name="ReinitializeWhenStopped.vi" Type="VI" URL="../900/Drive/ReinitializeWhenStopped.vi"/>
-					<Item Name="Reinitializecontrol.ctl" Type="VI" URL="../Reinitializecontrol.ctl"/>
 					<Item Name="pidMotor.vi" Type="VI" URL="../900/Drive/pidMotor.vi"/>
 				</Item>
 			</Item>
@@ -144,6 +143,7 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
+		<Item Name="ConsolidatedLaunchingCode.vi" Type="VI" URL="../ConsolidatedLaunchingCode.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>

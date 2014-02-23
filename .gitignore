@@ -1,5 +1,5 @@
 #Ignore LabVIEW things
-[Bb]uild*
+[Bb]uilds/*
 *.lvlps
 *.aliases
 

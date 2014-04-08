@@ -130,6 +130,7 @@ DirectoryIndex index.htm
 					<Item Name="ReinitializeWhenStopped.vi" Type="VI" URL="../900/Drive/ReinitializeWhenStopped.vi"/>
 					<Item Name="pidMotor.vi" Type="VI" URL="../900/Drive/pidMotor.vi"/>
 					<Item Name="Percent VBus Scaling.vi" Type="VI" URL="../900/Drive/Percent VBus Scaling.vi"/>
+					<Item Name="MB1010AnalogPID.vi" Type="VI" URL="../900/Drive/MB1010AnalogPID.vi"/>
 				</Item>
 				<Item Name="ImageSend.vi" Type="VI" URL="../900/ImageSend.vi"/>
 			</Item>
@@ -700,6 +701,7 @@ DirectoryIndex index.htm
 				<Item Name="WPI_AnalogChannelRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelRefNum Registry Get.vi"/>
 				<Item Name="WPI_AnalogModuleGetAverageValue.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleGetAverageValue.vi"/>
 				<Item Name="WPI_AnalogChannelGetAverageValue.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelGetAverageValue.vi"/>
+				<Item Name="SD Write Number.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Write Number.vi"/>
 			</Item>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -710,6 +712,7 @@ DirectoryIndex index.htm
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="AddCustomError.vi" Type="VI" URL="../900/AddCustomError.vi"/>
 			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
 			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
 			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
